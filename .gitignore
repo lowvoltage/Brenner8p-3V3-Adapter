@@ -1,3 +1,6 @@
 #EAGLE backup files
 *.b#?
 *.s#?
+
+#EAGLE project files
+*.epf
